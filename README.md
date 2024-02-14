@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @framastonando
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Networking | Cloud Computing
+- 🌱 I’m currently learning Programming as a Bangkit Academy Cohort
 - 📫 How to reach me (WhatsApp +6285647554266)
