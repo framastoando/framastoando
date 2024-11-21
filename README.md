@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @framastonando
 - 👀 I’m interested in Networking | Cloud Computing
-- 🌱 I’m currently learning Programming as a Bangkit Academy Cohort
 - 📫 How to reach me (WhatsApp +6285647554266)
 - 📧 You could also reach me via email ftonando333@gmail.com
 - Ⓛ Here is my linkedin profile, hope we could connect [Linkedin](www.linkedin.com/in/framas-tonando-8a186b257)
